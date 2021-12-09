@@ -1,5 +1,5 @@
 # MakeYourOwnKeyLogger
-Creating a basic keylogger that records &amp; stores key strokes from keyboard as logfiles using python. 
+Creating a basic keylogger that records &amp; stores key strokes from keyboard onto a logfile using python. 
 
 ## Input
 
