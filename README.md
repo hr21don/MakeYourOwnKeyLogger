@@ -7,8 +7,27 @@ User Keystrokes
 
 ## Output 
 
-<img width="260" alt="QuickKeyLog" src="https://user-images.githubusercontent.com/91548582/145465122-f5ccf36b-a1fd-4147-a914-6c7e9d6c6cd4.PNG">
+<img width="514" alt="Log" src="https://user-images.githubusercontent.com/91548582/145465316-a63daf2f-e136-4bec-9573-a2c2fd1c1e9f.PNG">
 
+Here are some example results!
+
+ 2021-12-09 19:40:37,860 - Key.alt_l
+ 2021-12-09 19:40:37,927 - Key.tab
+ 2021-12-09 19:40:55,170 - Key.enter
+ 2021-12-09 19:40:55,336 - Key.enter
+ 2021-12-09 19:40:55,546 - '#'
+ 2021-12-09 19:40:55,702 - '#'
+ 2021-12-09 19:40:56,002 - Key.space
+ 2021-12-09 19:40:56,157 - Key.caps_lock
+ 2021-12-09 19:40:56,272 - 'h'
+ 2021-12-09 19:40:56,386 - Key.caps_lock
+ 2021-12-09 19:40:56,438 - 'o'
+ 2021-12-09 19:40:56,603 - 'w'
+ 2021-12-09 19:40:56,633 - Key.space
+ 2021-12-09 19:40:56,842 - 't'
+ 2021-12-09 19:40:56,885 - 'o'
+ 
+ 
 ## How to run? || Download the zip file to your downloads directory and extract it.
 
 * Open up the file & change to the directory with test.py in it
