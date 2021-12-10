@@ -1,11 +1,23 @@
 # MakeYourOwnKeyLogger
 Creating a basic keylogger that records &amp; stores key strokes from keyboard onto a logfile using python. 
 
-## Input
+## History 
+A keylogger is a type of surveillance technology used to monitor and record each keystroke typed on a specific computer's keyboard.
 
-User Keystrokes
+## Is it something that will be useful?
+Well, a script kiddie uses this for unethical purposes, he or she will register everything you type in the keyboard including your credentials (credit card numbers, passwords, etc.).
+
+The goal of this tutorial is to make you aware of these kind of scripts as well as learning how to implement such malicious scripts on your own for educational purposes, let's get started!
+
+## Input Requirements
+
+ * Should be able to listen to user keystrokes in the background
+ * Should be able to add a key to a global string variable (condition || pressed and released)
+ * Should be able to report the content of this string variable to a local file. 
 
 ## Output 
+
+You should be able to see log files within the current directory like this.
 
 <img width="514" alt="Log" src="https://user-images.githubusercontent.com/91548582/145465316-a63daf2f-e136-4bec-9573-a2c2fd1c1e9f.PNG">
 
