@@ -45,6 +45,4 @@ Here are some example results!
 * Open up the file & change to the directory with test.py in it
 * Run test.py locally and notice the creation of the log file on the system
 
-## Access the full repo
 
-HR(2021) ||https://github.com/hr21don/MakeYourOwnKeyLogger
