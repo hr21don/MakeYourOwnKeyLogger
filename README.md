@@ -17,9 +17,9 @@ The goal of this tutorial is to make you aware of these kind of scripts as well 
 
 ## Output 
 
-You should be able to see log files within the current directory like this.
-
 <img width="514" alt="Log" src="https://user-images.githubusercontent.com/91548582/145465316-a63daf2f-e136-4bec-9573-a2c2fd1c1e9f.PNG">
+
+You should be able to view the content of log file to display something like this 
 
 Here are some example results!
 
