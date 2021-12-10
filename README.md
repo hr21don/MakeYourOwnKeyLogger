@@ -17,8 +17,6 @@ The goal of this tutorial is to make you aware of these kind of scripts as well 
 
 ## Output 
 
-<img width="96" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145619886-7034dc82-6e54-4221-85e2-251c7c21967c.PNG">
-
 You should be able to view the content of log file to display something like this 
 
 Here are some example results!
