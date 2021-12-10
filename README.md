@@ -12,7 +12,7 @@ The goal of this tutorial is to make you aware of these kind of scripts as well 
 ## Input Requirements
 
  * Should be able to listen to user keystrokes in the background
- * Should be able to add a key to a global string variable (condition || pressed and released)
+ * Should be able to add a key to a global string variable (condition: pressed and released)
  * Should be able to report the content of this string variable to a local file. 
 
 ## Output 
