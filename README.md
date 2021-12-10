@@ -23,21 +23,21 @@ You should be able to see log files within the current directory like this.
 
 Here are some example results!
 
- 2021-12-09 x:x:x,860 - Key.alt_l
- 2021-12-09 x:x:x,927 - Key.tab
- 2021-12-09 x:x:x,170 - Key.enter
- 2021-12-09 x:x:x,336 - Key.enter
- 2021-12-09 x:x:x,546 - '#'
- 2021-12-09 x:x:x,702 - '#'
- 2021-12-09 x:x:x,002 - Key.space
- 2021-12-09 x:x:x,157 - Key.caps_lock
- 2021-12-09 x:x:x,272 - 'h'
- 2021-12-09 x:x:x,386 - Key.caps_lock
- 2021-12-09 x:x:x,438 - 'o'
- 2021-12-09 x:x:x,603 - 'w'
- 2021-12-09 x:x:x,633 - Key.space
- 2021-12-09 x:x:x,842 - 't'
- 2021-12-09 x:x:x,885 - 'o'
+* 2021-12-09 x:x:x,860 - Key.alt_l
+* 2021-12-09 x:x:x,927 - Key.tab
+* 2021-12-09 x:x:x,170 - Key.enter
+* 2021-12-09 x:x:x,336 - Key.enter
+* 2021-12-09 x:x:x,546 - '#'
+* 2021-12-09 x:x:x,702 - '#'
+* 2021-12-09 x:x:x,002 - Key.space
+* 2021-12-09 x:x:x,157 - Key.caps_lock
+* 2021-12-09 x:x:x,272 - 'h'
+* 2021-12-09 x:x:x,386 - Key.caps_lock
+* 2021-12-09 x:x:x,438 - 'o'
+* 2021-12-09 x:x:x,603 - 'w'
+* 2021-12-09 x:x:x,633 - Key.space
+* 2021-12-09 x:x:x,842 - 't'
+* 2021-12-09 x:x:x,885 - 'o'
  
  
 ## How to run? || Download the zip file to your downloads directory and extract it.
