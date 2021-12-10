@@ -4,7 +4,7 @@ Creating a basic keylogger that records &amp; stores key strokes from keyboard o
 ## History 
 A keylogger is a type of surveillance technology used to monitor and record each keystroke typed on a specific computer's keyboard.
 
-## Is it something that will be useful?
+## Something useful?
 Well, a script kiddie uses this for unethical purposes, he or she will register everything you type in the keyboard including your credentials (credit card numbers, passwords, etc.).
 
 The goal of this tutorial is to make you aware of these kind of scripts as well as learning how to implement such malicious scripts on your own for educational purposes, let's get started!
